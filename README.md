@@ -112,6 +112,14 @@ Key configurable parameters for tailoring your **AI research agent**:
 
 We wholeheartedly welcome contributions from the community to enhance this **open-source AI research agent**! Whether you're adding new search strategies, integrating more **LLM** providers, improving the **iterative reasoning** process, or enhancing report generation, your input is incredibly valuable. Please refer to our `CONTRIBUTING.md` (to be created) for detailed guidelines.
 
+### 💬 Community & Support
+
+-   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials.
+-   **🗣️ [Forum](https://community.open-workflows.com):** Join our community forum to ask questions, share your projects, and connect with other users.
+-   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
+-   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
+-   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates.
+
 ## ⚖️ License
 
 This **AI research agent** project is licensed under the MIT License. See the `LICENSE` file for full details.
