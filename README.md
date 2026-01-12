@@ -108,6 +108,12 @@ Key configurable parameters for tailoring your **AI research agent**:
 -   **Strategy Parameters**: Fine-grained control over the **iterative reasoning** process with `max_iterations`, `confidence_threshold`, `search_iterations_per_round`, and `questions_per_search`.
 -   **Optimization**: Utilize `OptunaOptimizer` to systematically discover the best combination of these parameters for your specific **deep research** use cases, enhancing both quality and efficiency.
 
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-reasoning&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-reasoning&type=date&legend=top-left)
+
+
 ## 👋 Contributing
 
 We wholeheartedly welcome contributions from the community to enhance this **open-source AI research agent**! Whether you're adding new search strategies, integrating more **LLM** providers, improving the **iterative reasoning** process, or enhancing report generation, your input is incredibly valuable. Please refer to our `CONTRIBUTING.md` (to be created) for detailed guidelines.
